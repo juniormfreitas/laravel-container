@@ -1,8 +1,8 @@
 # laravel-container
 
-Simplified Docker environment to run a Laravel project
+Simplified Docker environment made to run a Laravel project
 
-This project will help you to run a Laravel environment using Docker.
+This repository will help you to run a Laravel environment using Docker.
 
 ## Getting started
 
@@ -20,7 +20,7 @@ If you don't have Composer installed please visit:
 
 ## The Environment
 
-This is a lightweight Laravel Environment containing MySql, Nginx and a PHP instance.
+This is a lightweight Laravel environment containing MySql, Nginx and a PHP instance.
 
 The laravel app must be placed in the `./src` folder unless you change the path on the line `#44` in the `docker-composer.yml` file.
 
